@@ -1,0 +1,7 @@
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Set Get Property\Set Get Property\bin\Debug\Set Get Property.exe.config
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Set Get Property\Set Get Property\bin\Debug\Set Get Property.exe
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Set Get Property\Set Get Property\bin\Debug\Set Get Property.pdb
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Set Get Property\Set Get Property\obj\Debug\Set Get Property.csproj.AssemblyReference.cache
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Set Get Property\Set Get Property\obj\Debug\Set Get Property.csproj.CoreCompileInputs.cache
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Set Get Property\Set Get Property\obj\Debug\Set Get Property.exe
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Set Get Property\Set Get Property\obj\Debug\Set Get Property.pdb

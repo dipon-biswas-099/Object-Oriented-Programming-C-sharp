@@ -1,0 +1,6 @@
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\JaggedArray2\JaggedArray2\bin\Debug\JaggedArray2.exe.config
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\JaggedArray2\JaggedArray2\bin\Debug\JaggedArray2.exe
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\JaggedArray2\JaggedArray2\bin\Debug\JaggedArray2.pdb
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\JaggedArray2\JaggedArray2\obj\Debug\JaggedArray2.csproj.CoreCompileInputs.cache
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\JaggedArray2\JaggedArray2\obj\Debug\JaggedArray2.exe
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\JaggedArray2\JaggedArray2\obj\Debug\JaggedArray2.pdb

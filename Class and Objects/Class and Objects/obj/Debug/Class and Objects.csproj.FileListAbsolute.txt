@@ -1,0 +1,7 @@
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Class and Objects\Class and Objects\bin\Debug\Class and Objects.exe.config
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Class and Objects\Class and Objects\bin\Debug\Class and Objects.exe
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Class and Objects\Class and Objects\bin\Debug\Class and Objects.pdb
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Class and Objects\Class and Objects\obj\Debug\Class and Objects.csproj.AssemblyReference.cache
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Class and Objects\Class and Objects\obj\Debug\Class and Objects.csproj.CoreCompileInputs.cache
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Class and Objects\Class and Objects\obj\Debug\Class and Objects.exe
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Class and Objects\Class and Objects\obj\Debug\Class and Objects.pdb

@@ -1,0 +1,7 @@
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Constructor\Constructor\bin\Debug\Constructor.exe.config
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Constructor\Constructor\bin\Debug\Constructor.exe
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Constructor\Constructor\bin\Debug\Constructor.pdb
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Constructor\Constructor\obj\Debug\Constructor.exe
+E:\AIUB ALL PDF\7th semester\OOP2\C# all topic\Constructor\Constructor\obj\Debug\Constructor.pdb
