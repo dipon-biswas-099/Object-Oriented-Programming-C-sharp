@@ -21,6 +21,19 @@ namespace Constructor
             LastName = lastName;
 
         }
+        public person(string firstName, string lastName) // constructor overloading 
+        {
+            FirstName = firstName;
+            
+            LastName = lastName;
+
+        }
+        // default constructor
+        public person()
+        {
+
+        }
+
         public string getFullName()
         {
             string fullName = FirstName + " " + MiddleName + " " + LastName;

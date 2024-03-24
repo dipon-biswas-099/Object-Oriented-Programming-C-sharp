@@ -12,6 +12,7 @@ namespace Constructor
         {
             person person1 = new person("dip", "kumar", "bissas");
             person person2 = new person("dip", "bissas"); // constructor overloading 
+            person person3 = new person(); // this object for default constructor 
             string fullName = person1.getFullName();
             Console.WriteLine(fullName);
             Console.ReadKey();
